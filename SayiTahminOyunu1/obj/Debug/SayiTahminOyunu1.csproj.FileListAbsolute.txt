@@ -1,0 +1,11 @@
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.csprojAssemblyReference.cache
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.Form1.resources
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.Properties.Resources.resources
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.csproj.GenerateResource.cache
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\bin\Debug\SayiTahminOyunu1.exe.config
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\bin\Debug\SayiTahminOyunu1.exe
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\bin\Debug\SayiTahminOyunu1.pdb
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.exe
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.pdb
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.Form2.resources
+C:\Users\metins\source\repos\SayiTahminOyunu1\SayiTahminOyunu1\obj\Debug\SayiTahminOyunu1.Form3.resources
